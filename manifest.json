@@ -1,0 +1,11 @@
+{
+    "name": "Just show me the recipe",
+    "version": "0.1",
+    "description": "No backstory, ads, etc. Just show me the recipe.",
+    "icons": {
+        "16": "images/16x16.png",
+        "48": "images/48x48.png",
+        "128": "images/128x128.png"
+    },
+    "manifest_version": 3
+}
